@@ -2,8 +2,14 @@
 
 ## Introduction
 
-This project showcases two different Python scripts for developing chatbots using Langchain and Streamlit. The first script implements a simple CSV chatbot using Langchain and Streamlit, while the second script utilizes the Llama pretrained model (llama-2-7b-chat.ggmlv3.q4_0.bin) for chatting, without integrating with Streamlit.
+This project showcases two different Python scripts for developing chatbots using Langchain and Streamlit. The first script implements a simple CSV chatbot using Langchain and Streamlit, while the second script utilizes the Llama pretrained model  for chatting, without integrating with Streamlit.
 
+## Download pretrained llama model 
+
+```bash
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main/llama-2-7b-chat.ggmlv3.q4_0.bin
+```
+You can download it locally first add as path.
 ## Prerequisites
 
 Before running the scripts, ensure you have the following installed:
