@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain_experimental
+langchain_openai
+streamlit
+ctransformers
+pandas
+matplotlib
+faiss
+
+
