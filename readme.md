@@ -1,4 +1,4 @@
-# 🔗🔗 🤖 Langchain Project 🔗🔗🤖
+# 🔗🔗 🤖 Langchain  🔗🔗🤖
 
 ## Introduction
 
